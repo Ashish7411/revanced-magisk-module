@@ -23,4 +23,6 @@ Patches: ReVanced/patches-5.5.1.rvp
 
 Skipped:  
 Patches: ReVanced/patches-5.5.1.rvp  
-Patches: inotia00/patches-5.0.3.rvp    
+Patches: ReVanced/patches-5.5.1.rvp  
+Patches: inotia00/patches-5.0.3.rvp  
+Patches: inotia00/patches-5.0.3.rvp      
