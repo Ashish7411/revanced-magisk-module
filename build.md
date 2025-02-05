@@ -1,3 +1,4 @@
+IconPackStudio: 2.2 build 016  
 Messenger: 439.0.0.29.119  
 Music (arm64-v8a): 7.29.52  
 Music (arm-v7a): 7.29.52  
@@ -17,4 +18,5 @@ Skipped:
 Patches: ReVanced/patches-5.10.0.rvp  
 Patches: ReVanced/patches-5.10.0.rvp  
 Patches: ReVanced/patches-5.10.0.rvp  
-Patches: ReVanced/patches-5.10.0.rvp          
+Patches: ReVanced/patches-5.10.0.rvp  
+Patches: ReVanced/patches-5.10.0.rvp            
