@@ -1,5 +1,4 @@
-GooglePhotos (arm64-v8a): 7.18.0.729565054  
-GooglePhotos (arm-v7a): 7.18.0.729565054  
+GooglePhotos (arm64-v8a): 7.19.0.733486757  
 IconPackStudio: 2.2 build 016  
 Messenger: 439.0.0.29.119  
 Music (arm64-v8a): 8.05.51  
@@ -17,4 +16,5 @@ Patches: ReVanced/patches-5.13.0.rvp
 
 Skipped:  
 Patches: ReVanced/patches-5.13.0.rvp  
-Patches: ReVanced/patches-5.13.0.rvp      
+Patches: ReVanced/patches-5.13.0.rvp  
+Patches: ReVanced/patches-5.13.0.rvp        
