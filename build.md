@@ -1,12 +1,12 @@
-GooglePhotos (arm64-v8a): 7.35.0.778148202  
-GooglePhotos (arm-v7a): 7.35.0.778148202  
+GooglePhotos (arm64-v8a): 7.36.0.779865778  
+GooglePhotos (arm-v7a): 7.36.0.779865778  
+IconPackStudio: 2.2 build 016  
 Messenger: 514.0.0.44.109  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
 Music-Extended (arm64-v8a): 8.05.51  
 Music-Extended (arm-v7a): 8.05.51  
-Spotify: 9.0.60.128  
-Twitch: 25.0.1  
+Spotify: 9.0.60.606  
 YouTube: 20.13.41  
 YouTube-Extended: 19.47.53  
 
