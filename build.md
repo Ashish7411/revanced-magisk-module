@@ -1,5 +1,11 @@
+GooglePhotos (arm64-v8a): 7.50.0.818774663  
+IconPackStudio: 2.2 build 016  
+Music (arm64-v8a): 8.25.54  
+Music (arm-v7a): 8.25.54  
 Music-Extended (arm64-v8a): 8.30.54  
 Music-Extended (arm-v7a): 8.30.54  
+Spotify: 9.0.76.1115  
+YouTube: 20.14.43  
 YouTube-Extended: 20.05.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
@@ -9,7 +15,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
 Patches: inotia00/patches-5.12.1.rvp  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1)  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1)
 
-Skipped:  
-Patches: ReVanced/patches-5.41.0.rvp    
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.43.1.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.43.1)  
