@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches 6.0.1.rvp)",
-  "versionCode": 220,
-  "zipUrl": "https://github.com/Ashish7411/revanced-magisk-module/releases/download/220/youtube-revanced-module-v20.40.45-all.zip",
+  "version": "v20.40.45 (patches 6.1.0.rvp)",
+  "versionCode": 221,
+  "zipUrl": "https://github.com/Ashish7411/revanced-magisk-module/releases/download/221/youtube-revanced-module-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/Ashish7411/revanced-magisk-module/update/build.md"
 }
